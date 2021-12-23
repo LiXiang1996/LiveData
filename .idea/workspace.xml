@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4303edba-1390-44e0-afaf-89dcbfe613c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LxView/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/base/BaseActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/home/HomeActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/myFreeView/addview/AddViewActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/timePicker/activity/TimePickerActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/timePicker/adapter/ArrayWheelAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/timePicker/adapter/NumericWheelAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/timePicker/builder/OptionsPickerBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/timePicker/builder/TimePickerBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/timePicker/configure/PickerOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/timePicker/listener/CustomListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/timePicker/listener/ISelectTimeCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/timePicker/listener/OnDismissListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/timePicker/listener/OnOptionsSelectChangeListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/timePicker/listener/OnOptionsSelectListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/timePicker/listener/OnTimeSelectChangeListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/timePicker/listener/OnTimeSelectListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/timePicker/utils/ChinaDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/timePicker/utils/IMTrailerTimePickerUtils.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/timePicker/utils/LunarCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/timePicker/utils/PickerViewAnimateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/timePicker/view/BasePickerView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/timePicker/view/EnglishMonthWheelView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/timePicker/view/OptionsPickerView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/timePicker/view/TimePickerView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/timePicker/view/WheelOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/timePicker/view/WheelTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/res/anim/pickerview_dialog_scale_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/res/anim/pickerview_dialog_scale_out.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/res/anim/pickerview_slide_in_bottom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/res/anim/pickerview_slide_out_bottom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/res/drawable-v24/icon_setting_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/res/drawable-v24/icon_wallet_info_input_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/res/drawable/selector_picker_shape_fragment_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/res/drawable/selector_pickerview_btn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/res/layout/home_activity_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/res/layout/im_group_trailer_activity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/res/layout/include_pickerview_topbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/res/layout/layout_basepickerview.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/res/layout/pickerview_options.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/res/layout/pickerview_time.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/res/layout/time_pick_activity_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/res/mipmap-xxhdpi/ic_selector_picker_sanjiao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/res/mipmap-xxhdpi/im_group_trailer_delete_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/res/mipmap-xxhdpi/im_group_trailer_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/app/src/main/res/values/integers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/wheelview/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/wheelview/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/wheelview/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/wheelview/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/wheelview/src/main/java/com/contrarywind/adapter/WheelAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/wheelview/src/main/java/com/contrarywind/interfaces/IPickerViewData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/wheelview/src/main/java/com/contrarywind/listener/LoopViewGestureListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/wheelview/src/main/java/com/contrarywind/listener/OnItemSelectedListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/wheelview/src/main/java/com/contrarywind/timer/InertiaTimerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/wheelview/src/main/java/com/contrarywind/timer/MessageHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/wheelview/src/main/java/com/contrarywind/timer/SmoothScrollTimerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/wheelview/src/main/java/com/contrarywind/view/WheelView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/wheelview/src/main/res/values/attrs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/wheelview/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LxView/wheelview/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/AVLoadingIndicatorView.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/view/AVLoadingIndicatorView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/BallPulseIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/view/BallPulseIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/Indicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/Indicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/IndicatorActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/activity/IndicatorActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/myFreeView/activity/ExOneActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/SampleActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/myFreeView/activity/SampleActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/listTimestamp/activity/ListTimeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/listTimestamp/activity/ListTimeActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/listTimestamp/adapter/TimeStampAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/listTimestamp/adapter/TimeStampAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/BallBeatIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/view/BallBeatIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/BallClipRotateIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/view/BallClipRotateIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/BallClipRotateMultipleIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/view/BallClipRotateMultipleIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/BallClipRotatePulseIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/view/BallClipRotatePulseIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/BallGridBeatIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/view/BallGridBeatIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/BallGridPulseIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/view/BallGridPulseIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/BallPulseIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/BallPulseIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/BallPulseRiseIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/view/BallPulseRiseIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/BallPulseSyncIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/view/BallPulseSyncIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/BallRotateIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/view/BallRotateIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/BallSpinFadeLoaderIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/view/BallSpinFadeLoaderIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/BallTrianglePathIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/view/BallTrianglePathIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/BallZigZagDeflectIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/view/BallZigZagDeflectIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/BallZigZagIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/view/BallZigZagIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/LineScaleIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/view/LineScaleIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/LineScalePartyIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/view/LineScalePartyIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/LineScalePulseOutIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/view/LineScalePulseOutIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/LineScalePulseOutRapidIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/view/LineScalePulseOutRapidIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/LineSpinFadeLoaderIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/loading/view/LineSpinFadeLoaderIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/myFreeView/ViewGroup/MyViewGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/java/com/example/lxview/myFreeView/ViewGroup/MyViewGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/res/layout/activity_indicator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/res/layout/activity_indicator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/res/layout/item_indicator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/res/layout/item_indicator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/app/src/main/res/values/style.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/app/src/main/res/values/style.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LxView/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/LxView/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22dHavrVTwJ7sHJfTUvEFAk4miq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last.edited.regexp" value="Sample Text" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4303edba-1390-44e0-afaf-89dcbfe613c0" name="Default Changelist" comment="" />
+      <created>1640160611651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640160611651</updated>
+    </task>
+    <servers />
+  </component>
+</project>

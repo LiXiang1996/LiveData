@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LxView">
         <activity
-            android:name=".myFreeView.ViewGroup.MyViewGroupActivity"
+            android:name=".home.HomeActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,8 +19,12 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".IndicatorActivity"/>
-<!--        <activity android:name=".myFreeView.ViewGroup.MyViewGroupActivity"/>-->
+        <activity android:name=".loading.activity.IndicatorActivity"/>
+        <activity android:name=".myFreeView.ViewGroup.MyViewGroupActivity"/>
+        <activity android:name=".myFreeView.activity.ExOneActivity"/>
+        <activity android:name=".myFreeView.activity.SampleActivity"/>
+        <activity android:name=".listTimestamp.activity.ListTimeActivity"/>
+        <activity android:name=".timePicker.activity.TimePickerActivity"/>
     </application>
 
 </manifest>

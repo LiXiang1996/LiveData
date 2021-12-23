@@ -4,9 +4,6 @@ import android.animation.ValueAnimator;
 import android.graphics.Canvas;
 import android.graphics.Paint;
 
-
-import com.example.lxview.Indicator;
-
 import java.util.ArrayList;
 
 /**

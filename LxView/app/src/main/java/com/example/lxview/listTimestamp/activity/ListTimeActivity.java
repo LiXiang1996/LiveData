@@ -28,5 +28,4 @@ public class ListTimeActivity extends AppCompatActivity {
         recycleView.setAdapter(timeStampAdapter);
     }
 
-
 }

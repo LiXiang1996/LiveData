@@ -4,15 +4,24 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.9" />
+        <entry key="app/src/main/res/drawable/selector_picker_shape_fragment_bg.xml" value="0.16927083333333334" />
+        <entry key="app/src/main/res/drawable/selector_pickerview_btn.xml" value="0.16927083333333334" />
         <entry key="app/src/main/res/layout/activity_indicator.xml" value="0.171875" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2411347400545747" />
         <entry key="app/src/main/res/layout/activity_sample.xml" value="0.31614583333333335" />
         <entry key="app/src/main/res/layout/addview_layout.xml" value="0.31614583333333335" />
+        <entry key="app/src/main/res/layout/home_activity_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/im_group_trailer_activity.xml" value="0.28958333333333336" />
+        <entry key="app/src/main/res/layout/include_pickerview_topbar.xml" value="0.14895833333333333" />
         <entry key="app/src/main/res/layout/item_indicator.xml" value="0.31614583333333335" />
         <entry key="app/src/main/res/layout/item_layout.xml" value="0.31614583333333335" />
+        <entry key="app/src/main/res/layout/layout_basepickerview.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/list_timechuo_activity_layout.xml" value="0.31614583333333335" />
         <entry key="app/src/main/res/layout/list_timestamp_activity_layout.xml" value="0.31614583333333335" />
         <entry key="app/src/main/res/layout/list_timestamp_item.xml" value="0.171875" />
+        <entry key="app/src/main/res/layout/pickerview_options.xml" value="0.14895833333333333" />
+        <entry key="app/src/main/res/layout/pickerview_time.xml" value="0.28958333333333336" />
+        <entry key="app/src/main/res/layout/time_pick_activity_layout.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/viewgroup_activity_layout.xml" value="0.28958333333333336" />
       </map>
     </option>

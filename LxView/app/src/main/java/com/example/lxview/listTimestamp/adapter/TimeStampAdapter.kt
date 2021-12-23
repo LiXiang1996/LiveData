@@ -1,6 +1,5 @@
 package com.example.lxview.listTimestamp.adapter
 
-import android.widget.Adapter
 import android.widget.TextView
 import androidx.appcompat.widget.AppCompatImageView
 import androidx.recyclerview.widget.RecyclerView
@@ -37,16 +36,16 @@ class TimeStampAdapter(layoutResId: Int,recyclerView: RecyclerView) :
         recyclerView.addItemDecoration(imDecoration)
 
     }
-    override fun convert(helper: BaseViewHolder?, item: TimeStampBean?) {
-        val textId = helper?.getView<TextView>(R.id.list_item_tv_id)
-        val textContent = helper?.getView<TextView>(R.id.list_item_tv_content)
-        val img = helper?.getView<AppCompatImageView>(R.id.list_item_img)
+    override fun convert(helper: BaseViewHolder, item: TimeStampBean?) {
+        val textId = helper.getView<TextView>(R.id.list_item_tv_id)
+        val textContent = helper.getView<TextView>(R.id.list_item_tv_content)
+        val img = helper.getView<AppCompatImageView>(R.id.list_item_img)
 
         textId?.text = item?.itemID.toString()
         textContent?.text = item?.itemContent.toString()
         img?.let { Glide.with(mContext).load(R.mipmap.ic_launcher).into(it) }
 
-        helper?.addOnClickListener(R.id.list_item_img)
+        helper.addOnClickListener(R.id.list_item_img)
     }
 
     override fun getTopMargin(): Int {

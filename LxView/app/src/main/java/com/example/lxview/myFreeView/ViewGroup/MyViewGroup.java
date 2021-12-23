@@ -13,7 +13,6 @@ public class MyViewGroup extends ViewGroup {
     public MyViewGroup(Context context) {
         super(context);
     }
-
     public MyViewGroup(Context context, AttributeSet attrs) {
 
         super(context, attrs);
